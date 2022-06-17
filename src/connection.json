@@ -1,9 +1,9 @@
 {
-    "account"     :"",
-    "user"        :"",
-    "password"    :"",
-    "role"        :"",
-    "warehouse"   :"",
-    "database"    :"",
-    "schema"      :""
+    "account"     :"kxlhysc-iv44490",
+    "user"        :"data",
+    "password"    :"diplo2021",
+    "role"        :"ACCOUNTADMIN",
+    "warehouse"   :"COMPUTE_WH",
+    "database"    :"ENVIRONMENT_DATA_ATLAS",
+    "schema"      :"ENVIRONMENT"
 }
